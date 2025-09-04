@@ -10,5 +10,5 @@
         state: touch
       with_items:
         - takkolu
-        - bhuvan
+        - bhuvaneswar
         - buvi
